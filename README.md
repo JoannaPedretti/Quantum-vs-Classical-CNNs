@@ -19,7 +19,7 @@ Results from this research contribute to understanding the potential benefits of
 - Results are plotted in the respective notebook for each model. 
 
 ## Dataset
-- [Fashion-MNIST dataset on Kaggle](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
+- [Fashion-MNIST dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 - 70,000 grayscale images of size 28x28, categorized into 10 classes, with 7,000 images per class.
 - 60,000 training examples and 10,000 testing examples.
 
