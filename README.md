@@ -26,6 +26,7 @@ Results from this research contribute to understanding the potential benefits of
 ## Instructions to run the Notebooks
 - Upload .ipynb files to Google Drive, open in Google Colab
 - No setup required, just run the cells!
+- Dataset is provided from tensorflow.keras.datasets
 - Or run using Jupyter
 
 ## Summary of results after training for 10 epochs
