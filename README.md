@@ -12,6 +12,7 @@ Results from this research contribute to understanding the potential benefits of
 
 ## Features
 - Three .ipynb files originally written in Google Colab.
+- Added a fourth notebook showing grid search CV tuning on the baseline CNN model.
 - Five CNN models total, three in CCNN file and two additional files for the QCNN models.
 - Models are compared fairly by creating CCNN models with similar number of trainable parameters as the QCNN. 
 - Train and evaluate each model first on clean data, then again on noisy data.
